@@ -1,5 +1,6 @@
 ### Eu sou a Paloma Franco, estudando e aplicando conteúdo de programação e tecnologia! 👋
-🔭 Estudo Programação Full Stack.
+🔭 Desenvolvedora Web.
+Estudante de Engenharia de Software
 😄 Pronouns: ela/dela.
 
 <div style="display: inline_block"><br>
