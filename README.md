@@ -14,3 +14,20 @@ Estudante de Engenharia de Software
   <a href="https://www.linkedin.com/in/paloma-franco-villas-boas-2382a696" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+Olá
+Sou Laura Grassi, uma desenvolvedora de software apaixonada e entusiasta de tecnologia. Atualmente trabalho como Desenvolvedor de Software Sênior na XTEAM.
+Com mais de 8 anos de experiência na área, tive a oportunidade de trabalhar em vários projetos empolgantes e explorar diferentes tecnologias.
+
+🚀Perícia
+Meu foco principal é o desenvolvimento de front-end, onde me especializei na criação de aplicativos da Web interativos e amigáveis. Tenho amplo conhecimento de HTML, CSS, JavaScript e Typescript, e sou proficiente em estruturas e bibliotecas populares, como React e VUE.
+Adoro trabalhar no front-end porque me permite combinar minha criatividade com habilidades de resolução de problemas para oferecer experiências de usuário excepcionais.
+
+💻pilha de tecnologia
+JavaScript TypeScript HTML5 CSS3 Reagir Vue.js Próximo JS NuxtJS SASS Menos MUI Componentes estilizados Vuetify Threejs Jira Noção Trello Carteiro babel
+
+🌐Sociais:
+Instagram LinkedIn TikTok Twitter
+
+📊Estatísticas do GitHub:
+ 
+
