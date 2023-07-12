@@ -23,6 +23,6 @@ Adoro trabalhar no front-end porque me permite combinar minha criatividade com h
 
 
 
-📊Estatísticas do GitHub:
+📊Esta
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
