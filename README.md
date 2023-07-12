@@ -16,8 +16,7 @@ Estudante de Engenharia de Software
   
 </div>
 
-🚀Perícia
-Meu foco principal é o desenvolvimento de front-end, onde me especializei na criação de aplicativos da Web interativos e amigáveis. Tenho amplo conhecimento de HTML, CSS, JavaScript e Typescript, e sou proficiente em estruturas e bibliotecas populares, como React e VUE.
+🚀Meu foco principal é o desenvolvimento de front-end, onde me especializei na criação de aplicativos da Web interativos e amigáveis. Tenho amplo conhecimento de HTML, CSS e JavaScript ,  sou proficiente em estruturas e bibliotecas populares, como React e VUE.
 Adoro trabalhar no front-end porque me permite combinar minha criatividade com habilidades de resolução de problemas para oferecer experiências de usuário excepcionais.
 
 
