@@ -29,5 +29,5 @@ JavaScript TypeScript HTML5 CSS3 Reagir Vue.js Próximo JS NuxtJS SASS Menos MUI
 Instagram LinkedIn TikTok Twitter
 
 📊Estatísticas do GitHub:
- 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
