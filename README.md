@@ -23,5 +23,5 @@ Adoro trabalhar na programação porque me permite combinar minha criatividade c
 
 
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
