@@ -20,8 +20,8 @@ Estudante de Engenharia de Software
   
 </div>
 
-🚀Meu foco principal é o desenvolvimento web, onde me especializo na criação de aplicativos da Web interativos e amigáveis. Tenho amplo conhecimento de HTML, CSS e JavaScript ,  sou proficiente em estruturas e bibliotecas populares, como React .
-Adoro trabalhar na programação porque me permite combinar minha criatividade com habilidades de resolução de problemas para oferecer experiências de usuário excepcionais.
+🚀Meu foco principal é o desenvolvimento web, onde me especializo na criação de aplicativos da Web interativos e amigáveis. Tenho conhecimento em  HTML, CSS , PHP, MySQL e JavaScript ,  sou proficiente em estruturas e bibliotecas populares, como React e express .
+Adoro trabalhar na programação porque me permite combinar minha criatividade com habilidades de resolução de problemas para oferecer experiências de usuário.
 
 
 
