@@ -23,11 +23,12 @@ Tenho focado meus estudos em **JavaScript**, **PHP**, **Node.js**, **React**, **
 
 
 
-## ⭐ GitHub Stats
+
+## 🌟 GitHub Stats
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/palomafcode?template=classic&base.indepth=true&repositories.affiliations=owner%2C%20collaborator%2C%20organization_member&config.timezone=America%2FSao_Paulo" width="420"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=palomafcode&theme=tokyonight" width="370"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=palomafcode&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomafcode&layout=compact&langs_count=8&theme=radical" width="400"/>
 </div>
 
 ---
