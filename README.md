@@ -15,20 +15,13 @@ Tenho focado meus estudos em **JavaScript**, **PHP**, **Node.js**, **React**, **
 
 ---
 
-## 🐍 Snake eating my contributions
-
-![snake gif](https://github.com/palomafcode/palomafcode/blob/output/github-contribution-grid-snake.svg)
-
----
-
-
 
 
 ## 🌟 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=palomafcode&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomafcode&layout=compact&langs_count=8&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomafcode&layout=compact&langs_count=8&theme=radical" width="300"/>
 </div>
 
 ---
