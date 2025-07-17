@@ -16,7 +16,7 @@ Tenho focado meus estudos em **desenvolvimento fullstack**, com ênfase nas stac
 
 ## 📊 Minhas estatísticas no GitHub
 
-Aqui você pode ver meu progresso, as linguagens que mais utilizo e meu ritmo de contribuição nos últimos meses:
+
 
 <div align="center">
   <!-- Card de estatísticas -->
