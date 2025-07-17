@@ -15,17 +15,18 @@ Tenho focado meus estudos em análise de dados e Cybersegurança, com o objetivo
 
 
 
-## 📊 GitHub Stats
+
 ## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/palomafcode">
-  
+    <!-- Card com estatísticas gerais -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=palomafcode&show_icons=true&theme=radical" />
-  
+    <!-- Card com linguagens mais usadas -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomafcode&layout=compact&langs_count=7&theme=radical" />
   </a>
 </div>
+
 
 
 
