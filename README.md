@@ -79,6 +79,14 @@ Acredito que a melhor forma de aprender é construindo.
 E é isso que eu faço: **codar com propósito!**
 
 ---
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/kHMuSsOXMuquk/giphy.gif" width="200px" alt="GitHub Octocat" />
+  <br/>
+  <strong>Keep calm and commit!</strong>
+</div>
+
 
 ## 📬 Vamos nos conectar?
 
