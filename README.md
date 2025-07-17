@@ -3,6 +3,8 @@
 Desenvolvedora em formação, comprometida em criar soluções modernas, funcionais e com propósito.  
 Tenho focado meus estudos em **desenvolvimento fullstack**, com ênfase nas stacks JavaScript, PHP e Laravel, transformando cada aprendizado em projetos reais ao longo da minha jornada.
 
+---
+
 ## 📌 Sobre mim
 
 - 🎓 Engenheira de Software em formação  
@@ -12,13 +14,24 @@ Tenho focado meus estudos em **desenvolvimento fullstack**, com ênfase nas stac
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Minhas estatísticas no GitHub
+
+Aqui você pode ver meu progresso, as linguagens que mais utilizo e meu ritmo de contribuição nos últimos meses:
 
 <div align="center">
-  <a href="https://github.com/palomafcode">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=palomafcode&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomafcode&layout=compact&langs_count=7&theme=radical" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=palomafcode&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=✨%20Estatísticas%20do%20GitHub%20da%20Paloma" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomafcode&layout=compact&langs_count=10&theme=radical" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=palomafcode&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=palomafcode&theme=radical" />
 </div>
 
 ---
