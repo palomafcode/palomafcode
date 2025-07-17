@@ -26,34 +26,6 @@ Tenho focado meus estudos em **JavaScript**, **PHP**, **Node.js**, **React**, **
 
 ---
 
-## 💻 Tecnologias & Linguagens
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,php,html,css,mysql,linux,aws&perline=7" alt="Tecnologias" />
-  </a>
-</p>
-
----
-
-## 🚀 Frameworks & Bibliotecas
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,nodejs,react&perline=5" alt="Frameworks e Bibliotecas" />
-  </a>
-</p>
-
----
-
-## 🛠️ Ferramentas de Desenvolvimento
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=5" alt="Ferramentas de Desenvolvimento" />
-  </a>
-</p>
-
 
 ## 💻 Tecnologias & Linguagens
 
