@@ -14,17 +14,28 @@ Tenho focado meus estudos em **desenvolvimento fullstack**, com ênfase nas stac
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Minhas estatísticas no GitHub
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+Aqui você pode ver meu progresso, as linguagens que mais utilizo e meu ritmo de contribuição nos últimos meses:
 
-  <!-- Estatísticas -->
-  <img src="https://github-readme-stats.vercel.app/api?username=palomafcode&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Paloma's%20GitHub%20Stats" alt="Paloma GitHub Stats" height="180px" />
-
-  <!-- Linguagens -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomafcode&layout=compact&langs_count=8&theme=radical&custom_title=Most%20Used%20Languages" alt="Paloma Most Used Languages" height="180px" />
-
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="./stats.svg" width="390px" />
+      </td>
+      <td>
+        <img src="./langs.svg" width="390px" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="./streak.svg" width="790px" />
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 
 
