@@ -26,6 +26,54 @@ Adoro trabalhar na programação porque me permite combinar minha criatividade c
 
 
 
+💜 Olá, eu sou a Eduarda!
+Desenvolvedora em formação, comprometida a criar soluções modernas, funcionais e com propósito.
+Tenho focado meus estudos em Node.js e React, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Engenharia de Software.
+
+Sobre mim
+🖥️ Técnica em Desenvolvimento de Sistemas pelo SENAI
+🎓 Graduanda em Engenharia de Software na PUC
+📚 Estudando JavaScript, Node.js, React, e desenvolvimento fullstack
+🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
+❤️ Tenho um studygram e sempre estou postando dicas sobre a área e incentivando dev's
+
+pacman contribution graph
+⭐ GitHub Stats
+ 
+📚 Meus estudos
+Organizo meus aprendizados e anotações em uma organização separada no GitHub chamada eduardavieira-study.
+Lá você encontra repositórios com resumos, desafios resolvidos, anotações de cursos e projetos de estudo contínuo.
+
+Manter esse espaço me ajuda a acompanhar minha evolução e, quem sabe, também ajudar outros devs iniciantes 💜
+
+Tecnologias e linguagens 💻
+My Skills
+
+🚀 Frameworks e bibliotecas
+My Skills
+
+🛠️ Ferramentas de desenvolvimento
+My Skills
+
+ilustração de um computador
+
+Sou formada como Técnica em Desenvolvimento de Sistemas pelo SENAI e atualmente curso o 3º período de Engenharia de Software na PUC Minas.
+
+Tenho me aprofundado em JavaScript, com foco em React.js para o front-end e Node.js para o back-end. Também venho explorando tecnologias como Java, Spring Boot, PostgreSQL, MySQL e Docker, aplicando esses conhecimentos em projetos acadêmicos e pessoais que fazem parte do meu portfólio.
+
+Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
+
+
+Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn ou confira meu conteúdo no Instagram! 💌✨
+
+Gmail LinkedIn Instagram
+
+
+Eduarda Vieira's github activity graph
+
+streak graph
+trophy graph
+
 
 
 
