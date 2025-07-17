@@ -19,22 +19,24 @@ Tenho focado meus estudos em **desenvolvimento fullstack**, com ênfase nas stac
 Aqui você pode ver meu progresso, as linguagens que mais utilizo e meu ritmo de contribuição nos últimos meses:
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="./stats.svg" width="390px" />
-      </td>
-      <td>
-        <img src="./langs.svg" width="390px" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="./streak.svg" width="790px" />
-      </td>
-    </tr>
-  </table>
+  <!-- Card de estatísticas -->
+  <img src="https://github-readme-stats.vercel.app/api?username=palomafcode&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=✨%20Estatísticas%20do%20GitHub%20da%20Paloma" width="400px" />
 </div>
+
+<br/>
+
+<div align="center">
+  <!-- Card de linguagens -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomafcode&layout=compact&langs_count=10&theme=radical&custom_title=Linguagens%20Mais%20Usadas" width="400px" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Card de streaks -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=palomafcode&theme=radical&date_format=M%20j%5B%2C%20Y%5D&custom_title=Contribuições%20Consecutivas" width="400px" />
+</div>
+
 
 
 
