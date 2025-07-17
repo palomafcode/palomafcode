@@ -42,6 +42,8 @@ Tenho focado meus estudos em análise de dados e Cybersegurança, com o objetivo
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
+![snake gif](https://github.com/palomafcode/palomafcode/blob/output/github-snake.svg)
+
 
 ## 🚀 Frameworks e bibliotecas
 
