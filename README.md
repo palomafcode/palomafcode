@@ -24,13 +24,16 @@ Tenho focado meus estudos em **JavaScript**, **PHP**, **Node.js**, **React**, **
 ## 🌟 GitHub Stats
 
 <div align="center">
+
+  <!-- Linguagens -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomafcode&layout=compact&langs_count=8&theme=radical" width="400"/>
+
+  <!-- Troféus -->
+  <img src="https://github-profile-trophy.vercel.app/?username=palomafcode&theme=radical&column=3&margin-w=15&no-frame=true" width="400"/>
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=palomafcode&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="820"/>
-</div>
-
+---
 <div align="center">
   <img src="https://img.shields.io/badge/⏱️%20Horas%20de%20Estudo-8000%2B%20horas-purple?style=for-the-badge&logo=leetcode&logoColor=white" />
 </div>
